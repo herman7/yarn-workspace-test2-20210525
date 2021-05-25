@@ -1,0 +1,15 @@
+{
+  "name": "ui-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ui-lib": "1.0.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo success",
+    "clean": "rimraf lib"
+  }
+}
