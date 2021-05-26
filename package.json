@@ -18,7 +18,7 @@
     "clean": "yarn workspaces run clean",
     "test": "yarn workspaces run test",
     "commit": "git-cz",
-    "version": "lerna version --conventional-commits"
+    "version": "lerna version --conventional-commits --conventional-commits --yes"
   },
   "husky": {
     "hooks": {
