@@ -2,6 +2,8 @@
 0 silly argv   _: [ 'version' ],
 0 silly argv   'conventional-commits': true,
 0 silly argv   conventionalCommits: true,
+0 silly argv   yes: true,
+0 silly argv   y: true,
 0 silly argv   lernaVersion: '4.0.0',
 0 silly argv   '$0': '/Users/herman/workspace/2021/yarn-workspace-test2-20210525/node_modules/.bin/lerna'
 0 silly argv }
