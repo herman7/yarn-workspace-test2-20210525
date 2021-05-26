@@ -1,6 +1,6 @@
 {
   "name": "yarn-workspace-test2-20210525",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "private": true,
   "workspaces": [
